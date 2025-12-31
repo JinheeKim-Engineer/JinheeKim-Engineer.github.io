@@ -2,7 +2,8 @@
 layout: page
 title: About
 ---
+I am Jinhee Kim, a Master's student in the Department of Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I am advised by Prof. Seong-Woo Kim at the [Autonomous Robot Intelligence Lab](https://arisnu.squarespace.com/). I received my B.S. in Mechanical Systems Engineering from Sookmyung Women's University in 2025. 
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+My research primarily focuses on Multi-Robot Systems, Affordance-aware navigation, and Language-grounded robotics.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+
