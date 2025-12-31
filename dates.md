@@ -14,7 +14,7 @@ permalink: /dates/
 </div>
 
 ### 2025
-* **Paper Title 1**: Jinhee Kim, et al. (ICRA 2025)
+* **Language-based Navigation**: ,Jinhee Kim, et al. (ICRA 2025)
 * **Paper Title 2**: Research on Multi-Robot Systems...
 
 ### 2024
