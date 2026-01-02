@@ -27,7 +27,7 @@ permalink: /awards/
 * Bronze Award at X-corps Plus Festival, Nov. 2022 <br> <span style="color:#666; font-size: 0.9em;">Korea Research Foundation, Korea</span>
 <br>
 
-* 2nd Place at 2022 NATIONAL COMPETITION, Jul. 2022 <br> <span style="color:#666; font-size: 0.9em;">enactus Korea, Korea</span>
+* 2nd Place at 2022 NATIONAL COMPETITION, Jul. 2022 <br> <span style="color:#666; font-size: 0.9em;">Enactus Korea, Korea</span>
 <br>
 
 * 4th Place at KTB Venture Challenge 2021 Idea Startup Contest, Oct. 2021 <br> <span style="color:#666; font-size: 0.9em;">KTB Financial Group, Korea</span>
