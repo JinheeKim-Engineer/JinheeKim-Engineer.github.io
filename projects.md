@@ -8,7 +8,7 @@ permalink: /projects/
   <a href="/projects/" style="display: inline-block; margin-right: 20px; font-weight: bold; font-size: 30px; color: #303030; text-decoration: none; border-bottom: 3px solid #303030; padding-bottom: 5px;">Projects</a>
   <a href="/portfolio/" style="display: inline-block; margin-right: 20px; font-size: 30px; color: #a0a0a0; text-decoration: none;">Portfolio</a>
   <a href="/awards/" style="display: inline-block; font-size: 30px; color: #a0a0a0; text-decoration: none;">Awards</a>
-</div>>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
 
