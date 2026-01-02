@@ -9,3 +9,7 @@
 - type: page            # Portfolio 버튼도 필요하다면 추가
   title: Portfolio
   url: /portfolio/
+  
+- type: page
+  title: Awards
+  url: /awards/
