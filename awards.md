@@ -15,24 +15,22 @@ permalink: /awards/
 
 </div>
 
-### Honors & Awards
-
-* **Nov. 2025** Bronze Award at X-corps Plus Festival <br> <span style="color:#666; font-size: 0.9em;">Korea Research Foundation, Korea</span>
+* Bronze Award at X-corps Plus Festival, Nov. 2025 <br> <span style="color:#666; font-size: 0.9em;">Korea Research Foundation, Korea</span>
 <br>
 
-* **Jul. 2024** Silver Prize, Undergraduate Thesis Competition <br> <span style="color:#666; font-size: 0.9em;">Korea Digital Contents Society, Korea</span>
+* Silver Prize, Undergraduate Thesis Competition, Jul. 2024 <br> <span style="color:#666; font-size: 0.9em;">Korea Digital Contents Society, Korea</span>
 <br>
 
-* **Nov. 2023** Participation Award at 2023 Self-Driving Software Advanced Competition <br> <span style="color:#666; font-size: 0.9em;">Gyeonggi Institute of Industrial Convergence, Korea</span>
+* Participation Award at 2023 Self-Driving Software Advanced Competition, Nov. 2023 <br> <span style="color:#666; font-size: 0.9em;">Gyeonggi Institute of Industrial Convergence, Korea</span>
 <br>
 
-* **Nov. 2022** Bronze Award at X-corps Plus Festival <br> <span style="color:#666; font-size: 0.9em;">Korea Research Foundation, Korea</span>
+* Bronze Award at X-corps Plus Festival, Nov. 2022 <br> <span style="color:#666; font-size: 0.9em;">Korea Research Foundation, Korea</span>
 <br>
 
-* **Jul. 2022** 2nd Place at 2022 NATIONAL COMPETITION <br> <span style="color:#666; font-size: 0.9em;">enactus Korea, Korea</span>
+* 2nd Place at 2022 NATIONAL COMPETITION, Jul. 2022 <br> <span style="color:#666; font-size: 0.9em;">enactus Korea, Korea</span>
 <br>
 
-* **Oct. 2021** 4th Place at KTB Venture Challenge 2021 Idea Startup Contest <br> <span style="color:#666; font-size: 0.9em;">KTB Financial Group, Korea</span>
+* 4th Place at KTB Venture Challenge 2021 Idea Startup Contest, Oct. 2021 <br> <span style="color:#666; font-size: 0.9em;">KTB Financial Group, Korea</span>
 <br>
 
-* **Aug. 2021** Selected for the Youth Startup Support Program for First-Time Entrepreneurs <br> <span style="color:#666; font-size: 0.9em;">Ministry of SMEs and Startups, Korea</span>
+* Selected for the Youth Startup Support Program for First-Time Entrepreneurs, Aug. 2021 <br> <span style="color:#666; font-size: 0.9em;">Ministry of SMEs and Startups, Korea</span>
