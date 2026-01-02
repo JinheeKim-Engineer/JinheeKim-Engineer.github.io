@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Portfolio
 permalink: /portfolio/
 ---
 
@@ -15,6 +16,10 @@ permalink: /portfolio/
 
 ### Dreamhanger
 **Mar. 2021 – Sep. 2022 | Founder & CEO**
+<br>
+<a href="https://www.instagram.com/dreamhanger.kr" target="_blank" style="text-decoration: none; color: #E1306C; font-weight: bold; font-size: 16px;">
+  🔗 Instagram: @dreamhanger.kr
+</a>
 
 <img src="/assets/dream.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
