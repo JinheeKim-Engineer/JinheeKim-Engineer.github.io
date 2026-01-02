@@ -8,7 +8,7 @@ permalink: /project-2-solar-car/
 **Oct. 2024 – Aug. 2025 | Electrical Control Leader**
 
 <div style="text-align: center; margin-bottom: 30px;">
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/gUruMXGoxZk?si=B2gbA_k8IaYJNN7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/gUruMXGoxZk?si=B2gbA_k8IaYJNN7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   </div>
 
@@ -35,6 +35,7 @@ permalink: /project-2-solar-car/
 
 
 [← Back to Projects](/projects/)
+
 
 
 
