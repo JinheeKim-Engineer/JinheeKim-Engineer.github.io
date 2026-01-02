@@ -17,5 +17,5 @@ permalink: /dates/
 Driving and Irradiance Data”, *International Conference on Energy, Aquatech, and Sustainability (ICEAS)*,
 2025
 <br>
-• **Jinhee Kim**, Minjeoung Kim, Jongwoo Lee, “Autonomous driving with camera and LiDAR sensor fusion”,
+• **Jinhee Kim***, Minjeoung Kim*, Jongwoo Lee, “Autonomous driving with camera and LiDAR sensor fusion”,
 *Digital Contents Society (DCS)*, 2024
