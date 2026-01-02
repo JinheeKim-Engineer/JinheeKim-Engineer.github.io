@@ -1,13 +1,11 @@
 - type: dates
-  title: Publications
+  title: Publications   # Dates를 Publications로 이름 변경
   url: /dates/
-#- type: categories
-#  title: Categories
-#  url: /categories/
-- type: tags
-  title: Projects
-  url: /tags/
 
-- type: tags
+- type: page            # Tags를 Projects로 변경
+  title: Projects
+  url: /projects/       # projects.md의 permalink와 똑같아야 함
+
+- type: page            # Portfolio 버튼도 필요하다면 추가
   title: Portfolio
-  url: /port/
+  url: /portfolio/
