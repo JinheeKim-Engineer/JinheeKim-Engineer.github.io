@@ -10,9 +10,6 @@ permalink: /project-2-solar-car/
 
   <iframe width="100%" height="450" src="https://www.youtube.com/embed/gUruMXGoxZk?si=B2gbA_k8IaYJNN7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 8px;"></iframe>
 
-
-<br>
-
 ### Overview
 * Developing a solar-powered electric vehicle to traverse 3,000 km across Australia in the Bridgestone World Solar Challenge.
 * Designed and integrated high-voltage (battery, motor, solar array) and low-voltage subsystems (MCU, MPPT, lighting, signaling devices).
@@ -35,4 +32,5 @@ permalink: /project-2-solar-car/
 <br>
 
 [← Back to Projects](/projects/)
+
 
