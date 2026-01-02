@@ -4,14 +4,14 @@ title: Solar Car Development
 permalink: /project-2-solar-car/
 ---
 
-## Solar Car Development
+## World Solar Challenge
 **Oct. 2024 – Aug. 2025 | Electrical Control Leader**
 
 ![Project Image](/assets/PADO.jpg)
 
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <iframe width="100%" height="400" src="https://youtu.be/gUruMXGoxZk?si=fJodeFu99q1vRS9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gUruMXGoxZk?si=B2gbA_k8IaYJNN7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>
   
   </div>
 
@@ -38,3 +38,4 @@ permalink: /project-2-solar-car/
 
 
 [← Back to Projects](/projects/)
+
