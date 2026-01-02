@@ -13,9 +13,8 @@ permalink: /dates/
 
 </div>
 
-### 2025
-* **Language-based Navigation**: ,Jinhee Kim, et al. (ICRA 2025)
-* **Paper Title 2**: Research on Multi-Robot Systems...
-
-### 2024
-* **Old Paper**: ...
+• Sanghoon Lee*, **Jinhee Kim***, Jiyang Lee, Seong-Woo Kim, “Energy Estimation for Solar Mobility using
+Driving and Irradiance Data”, *International Conference on Energy, Aquatech, and Sustainability (ICEAS)*,
+2025
+• **Jinhee Kim**, Minjeoung Kim, Jongwoo Lee, “Autonomous driving with camera and LiDAR sensor fusion”,
+*Digital Contents Society (DCS)*, 2024
