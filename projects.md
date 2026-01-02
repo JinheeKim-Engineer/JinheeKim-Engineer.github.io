@@ -17,7 +17,7 @@ permalink: /projects/
       <img src="/assets/lang.jpg" style="width: 100%; height: 180px; object-fit: cover;">
       <div style="padding: 20px;">
         <h3 style="margin-top: 0; margin-bottom: 10px;">Language-Guided Navigation</h3>
-        <p style="font-size: 14px; color: #666; margin-bottom: 0;">Jul. 2025 – present</p>
+        <p style="font-size: 14px; color: #666; margin-bottom: 0;">Jul. 2025 – Sept. 2025</p>
         <p style="font-size: 15px;">Quadruped robot navigation using natural language instructions.</p>
       </div>
     </div>
@@ -28,7 +28,7 @@ permalink: /projects/
       <img src="/assets/PADO.jpg" style="width: 100%; height: 180px; object-fit: cover;">
       <div style="padding: 20px;">
         <h3 style="margin-top: 0; margin-bottom: 10px;">Solar Car Development</h3>
-        <p style="font-size: 14px; color: #666; margin-bottom: 0;">Oct. 2024 – present</p>
+        <p style="font-size: 14px; color: #666; margin-bottom: 0;">Oct. 2024 – Aug. 2025</p>
         <p style="font-size: 15px;">Bridgestone World Solar Challenge 3,000 km journey.</p>
       </div>
     </div>
