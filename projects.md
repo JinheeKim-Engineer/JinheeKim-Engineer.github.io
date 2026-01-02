@@ -18,7 +18,7 @@ permalink: /projects/
       <div style="padding: 20px;">
         <h3 style="margin-top: 0; margin-bottom: 10px;">Language-Guided Navigation</h3>
         <p style="font-size: 14px; color: #666; margin-bottom: 0;">Jul. 2025 – Sept. 2025</p>
-        <p style="font-size: 15px;">Quadruped robot navigation using natural language instructions.</p>
+        
       </div>
     </div>
   </a>
@@ -29,7 +29,7 @@ permalink: /projects/
       <div style="padding: 20px;">
         <h3 style="margin-top: 0; margin-bottom: 10px;">Solar Car Development</h3>
         <p style="font-size: 14px; color: #666; margin-bottom: 0;">Oct. 2024 – Aug. 2025</p>
-        <p style="font-size: 15px;">Bridgestone World Solar Challenge 3,000 km journey.</p>
+       
       </div>
     </div>
   </a>
@@ -42,7 +42,7 @@ permalink: /projects/
       <div style="padding: 20px;">
         <h3 style="margin-top: 0; margin-bottom: 10px;">Autonomous Driving System</h3>
         <p style="font-size: 14px; color: #666; margin-bottom: 0;">Mar. 2023 – Dec. 2023</p>
-        <p style="font-size: 15px;">LiDAR, Sensor Fusion, and Path Planning implementation.</p>
+        
       </div>
     </div>
   </a>
@@ -55,7 +55,7 @@ permalink: /projects/
       <div style="padding: 20px;">
         <h3 style="margin-top: 0; margin-bottom: 10px;">Artificial Muscle Actuator</h3>
         <p style="font-size: 14px; color: #666; margin-bottom: 0;">Mar. 2022 – Dec. 2022</p>
-        <p style="font-size: 15px;">Lightweight actuator using latex tubing.</p>
+        
       </div>
     </div>
   </a>
