@@ -44,9 +44,9 @@ permalink: /projects/
 
   <a href="/project-3-autonomous/" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #eee; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-      <div style="height: 180px; background-color: #f0f0f0; display: flex; align-items: center; justify-content: center; color: #888;">
-        Image Here
-      </div>
+      
+      <img src="/assets/frozen.jpg" style="width: 100%; height: 180px; object-fit: cover;">
+      
       <div style="padding: 20px;">
         <h3 style="margin-top: 0; margin-bottom: 10px;">Autonomous Driving System</h3>
         <p style="font-size: 14px; color: #666; margin-bottom: 0;">Mar. 2023 – Dec. 2023</p>
