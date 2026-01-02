@@ -5,13 +5,13 @@ permalink: /project-2-solar-car/
 ---
 
 ## Solar Car Development
-**Oct. 2024 – present | Electrical Control Leader**
+**Oct. 2024 – Aug. 2025 | Electrical Control Leader**
 
-![Project Image](/assets/[PADO.jpg)
+![Project Image](/assets/PADO.jpg)
 
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <iframe width="100%" height="400" src="https://youtu.be/gUruMXGoxZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="400" src="https://youtu.be/gUruMXGoxZk?si=fJodeFu99q1vRS9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   </div>
 
@@ -35,5 +35,6 @@ permalink: /project-2-solar-car/
 </div>
 
 <br>
+
 
 [← Back to Projects](/projects/)
