@@ -13,9 +13,9 @@ permalink: /dates/
 
 </div>
 
-• Sanghoon Lee*, **Jinhee Kim***, Jiyang Lee, Seong-Woo Kim, “Energy Estimation for Solar Mobility using
-Driving and Irradiance Data”, *International Conference on Energy, Aquatech, and Sustainability (ICEAS)*,
+• Sanghoon Lee*, **Jinhee Kim***, Jiyang Lee, Seong-Woo Kim. <br>“Energy Estimation for Solar Mobility using
+Driving and Irradiance Data” <br>*International Conference on Energy, Aquatech, and Sustainability (ICEAS)*,
 2025
 <br><br>
-• **Jinhee Kim***, Minjeoung Kim*, Jongwoo Lee, “Autonomous driving with camera and LiDAR sensor fusion”,
+• **Jinhee Kim***, Minjeoung Kim*, Jongwoo Lee. <br>“Autonomous driving with camera and LiDAR sensor fusion”<br>
 *Digital Contents Society (DCS)*, 2024
