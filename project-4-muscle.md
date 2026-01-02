@@ -7,11 +7,11 @@ permalink: /project-4-muscle/
 ## Artificial Muscle Actuator Research
 **Mar. 2022 – Dec. 2022 | Undergraduate Researcher**
 
-![Project Image](/assets/이미지파일이름.jpg)
 
 ### Overview
 * Developed a lightweight actuator using latex tubing and dual springs for bidirectional motion, optimized for wrist-mounted applications.
 * Designed actuator placement concepts and built robust experimental setups.
 * Achieved up to 87.7% total strain under both positive and negative pressures.
+
 
 [← Back to Projects](/projects/)
