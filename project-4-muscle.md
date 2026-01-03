@@ -5,7 +5,6 @@ permalink: /project-4-muscle/
 ---
 
 ## Artificial Muscle Actuator Research
-**Mar. 2022 – Dec. 2022 | Undergraduate Researcher**
 
 
 ### Overview
@@ -15,3 +14,4 @@ permalink: /project-4-muscle/
 
 
 [← Back to Projects](/projects/)
+
