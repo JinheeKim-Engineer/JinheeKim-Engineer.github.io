@@ -4,15 +4,10 @@ permalink: /awards/
 ---
 
 <div style="margin-bottom: 40px; border-bottom: 1px solid #e5e5e5; padding-bottom: 10px; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">
-  
-  <a href="/dates/" style="display: inline-block; margin-right: 20px; font-size: 30px; color: #a0a0a0; text-decoration: none;">Publications</a>
-  
+  <a href="/" style="display: inline-block; margin-right: 20px; font-size: 30px; color: #a0a0a0; text-decoration: none;">Publications</a>
   <a href="/projects/" style="display: inline-block; margin-right: 20px; font-size: 30px; color: #a0a0a0; text-decoration: none;">Projects</a>
-  
   <a href="/portfolio/" style="display: inline-block; margin-right: 20px; font-size: 30px; color: #a0a0a0; text-decoration: none;">Portfolio</a>
-
   <a href="/awards/" style="display: inline-block; font-weight: bold; font-size: 30px; color: #303030; text-decoration: none; border-bottom: 3px solid #303030; padding-bottom: 5px;">Awards</a>
-
 </div>
 
 * Bronze Award at X-corps Plus Festival, Nov. 2025 <br> <span style="color:#666; font-size: 0.9em;">Korea Research Foundation, Korea</span>
