@@ -22,7 +22,7 @@ permalink: /portfolio/
   🔗 Instagram: @dreamhanger.kr
 </a>
 
-<img src="/assets/dream.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/Y8fnENM2Kls?si=3fwW6a3d2Z5ZdZ38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Founded a start-up brand that produces eco-friendly pet amenities by upcycling five-star hotel linens
 * Established B2B partnerships with Conrad Hotel, Kensington Resort Seorak Valley, Lotte Jeju CC, and Kolon Affiliate Hotels (Hotel Poco, Mauna Ocean Resort, Cappuccino Hotel)
