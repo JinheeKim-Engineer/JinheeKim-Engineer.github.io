@@ -16,7 +16,7 @@ permalink: /portfolio/
 </div>
 
 ### Dreamhanger
-**Mar. 2021 – Sep. 2022 | Founder & CEO**
+**Founder & CEO | Mar. 2021 – Sep. 2022**
 <br>
 <a href="https://www.instagram.com/dreamhanger.kr" target="_blank" style="text-decoration: none; color: #E1306C; font-weight: bold; font-size: 16px;">
   🔗 Instagram: @dreamhanger.kr
