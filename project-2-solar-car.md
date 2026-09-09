@@ -28,12 +28,12 @@ permalink: /project-2-solar-car/
        assets/img/car_assembly.jpg -->
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
-  <img src="/assets/img/car1.jpg" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/img/car2.jpg" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/car1.png" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/car2.jpg" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 <div style="margin-bottom: 15px;">
-  <img src="/assets/img/car3.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/car3.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <p style="text-align: center; color: #666; font-size: 14px; margin-top: 5px;">Vehicle Assembly Process</p>
 </div>
 
