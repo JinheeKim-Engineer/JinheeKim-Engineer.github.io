@@ -12,6 +12,21 @@ permalink: /projects/
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
 
+  <a href="/project-5-humanoid/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #eee; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+      <!-- Put a thumbnail at /assets/humanoid.jpg and replace the block below with:
+           <img src="/assets/humanoid.jpg" style="width: 100%; height: 180px; object-fit: cover;"> -->
+      <div style="height: 180px; background-color: #f0f0f0; display: flex; align-items: center; justify-content: center; color: #888;">
+        Image Here
+      </div>
+      <div style="padding: 20px;">
+        <h3 style="margin-top: 0; margin-bottom: 10px;">Humanoid Development</h3>
+        <p style="font-size: 14px; color: #666; margin-bottom: 0;">Sept. 2025 – Present</p>
+
+      </div>
+    </div>
+  </a>
+
   <a href="/project-1-navigation/" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #eee; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); transition: transform 0.2s;">
       <img src="/assets/lang.jpg" style="width: 100%; height: 180px; object-fit: cover;">

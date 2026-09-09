@@ -10,6 +10,8 @@ permalink: /project-2-solar-car/
 
   <iframe width="100%" height="450" src="https://www.youtube.com/embed/gUruMXGoxZk?si=B2gbA_k8IaYJNN7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 8px;"></iframe>
 
+  <iframe width="100%" height="450" src="https://www.youtube.com/embed/nPtbnjqbqQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 8px; margin-top: 15px;"></iframe>
+
 ### Overview
 * Developing a solar-powered electric vehicle to traverse 3,000 km across Australia in the Bridgestone World Solar Challenge.
 * Designed and integrated high-voltage (Battery, Motor, Solar Array) and low-voltage subsystems (MCU, MPPT, Lighting, Signaling Devices).
@@ -18,6 +20,12 @@ permalink: /project-2-solar-car/
 <br>
 
 ### Gallery
+
+<!-- These three images are not in the repo yet. Put the files in assets/img/ with
+     exactly these names for the gallery to render:
+       assets/img/circuit_design.jpg
+       assets/img/pcb_layout.jpg
+       assets/img/car_assembly.jpg -->
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
   <img src="/assets/img/circuit_design.jpg" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
