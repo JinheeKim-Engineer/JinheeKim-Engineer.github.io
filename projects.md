@@ -14,9 +14,9 @@ permalink: /projects/
 
   <a href="/project-5-humanoid/" style="text-decoration: none; color: inherit;">
     <div style="border: 1px solid #eee; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-    <img src="/assets/humanoid.png" style="width: 100%; height: 180px; object-fit: cover;">
+    
       <div style="height: 180px; background-color: #f0f0f0; display: flex; align-items: center; justify-content: center; color: #888;">
-        Image Here
+        <img src="/assets/humanoid.png" style="width: 100%; height: 180px; object-fit: cover;">
       </div>
       <div style="padding: 20px;">
         <h3 style="margin-top: 0; margin-bottom: 10px;">Humanoid Development</h3>
