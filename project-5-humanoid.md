@@ -13,7 +13,7 @@ permalink: /project-5-humanoid/
 </div>
 
 ### Overview
-* Developing a 175 cm-tall, 12-DoF humanoid robot
+* Developing a 175 cm-tall, 21-DoF humanoid robot
 * Responsible for component selection, wiring, and overall system integration
 
 ### Gallery
