@@ -15,7 +15,7 @@ permalink: /media/
 
   <p>
     • <a href="https://gsep.snu.ac.kr/boards/notice/42079/detail/introduction/news/" target="_blank">“서울대에서 탄생한 사람을 닮은 휴머노이드, 공존을 꿈꾸다”</a> <br>
-    <span style="color:#666; font-size: 0.9em;">A human-like humanoid born at SNU, dreaming of coexistence — on the humanoid robot Huphy</span> <br>
+    <span style="color:#666; font-size: 0.9em;">Huphy, a human-like humanoid robot born at SNU, dreaming of coexistence with people</span> <br>
     <i>Graduate School of Engineering Practice, Seoul National University</i>, Oct. 2026
   </p>
 
@@ -23,7 +23,7 @@ permalink: /media/
 
   <p>
     • <a href="https://www.sookmyung.ac.kr/kr/news/sm-interview.do?mode=view&articleNo=54133" target="_blank">“지구와 동물의 행복을 목표로 모험을 시작하다, 드림행거 김진희 대표”</a> <br>
-    <span style="color:#666; font-size: 0.9em;">Interview with the founder of Dreamhanger, a pet-amenity startup upcycling hotel linens</span> <br>
+    <span style="color:#666; font-size: 0.9em;">Interview as Founder & CEO of Dreamhanger, a pet-amenity startup upcycling hotel linens</span> <br>
     <i>SM Interview, Sookmyung Women's University</i>, Aug. 2022
   </p>
 
