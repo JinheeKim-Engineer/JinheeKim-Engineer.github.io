@@ -50,6 +50,10 @@ sass:
 # Replace this value and uncomment to enable Google Analytics tracking
 # google_analytics: UA-000000-0
 
+# Replace this value and uncomment to enable GoatCounter tracking
+# (your code is the part before .goatcounter.com)
+goatcounter: jhhp
+
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
 
