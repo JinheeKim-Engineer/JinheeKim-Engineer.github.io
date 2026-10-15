@@ -7,7 +7,8 @@ permalink: /portfolio/
   <a href="/" style="display: inline-block; margin-right: 20px; font-size: 30px; color: #a0a0a0; text-decoration: none;">Publications</a>
   <a href="/projects/" style="display: inline-block; margin-right: 20px; font-size: 30px; color: #a0a0a0; text-decoration: none;">Projects</a>
   <a href="/portfolio/" style="display: inline-block; margin-right: 20px; font-weight: bold; font-size: 30px; color: #303030; text-decoration: none; border-bottom: 3px solid #303030; padding-bottom: 5px;">Portfolio</a>
-  <a href="/awards/" style="display: inline-block; font-size: 30px; color: #a0a0a0; text-decoration: none;">Awards</a>
+  <a href="/awards/" style="display: inline-block; margin-right: 20px; font-size: 30px; color: #a0a0a0; text-decoration: none;">Awards</a>
+  <a href="/media/" style="display: inline-block; font-size: 30px; color: #a0a0a0; text-decoration: none;">Media</a>
 </div>
 
 ### Dreamhanger
